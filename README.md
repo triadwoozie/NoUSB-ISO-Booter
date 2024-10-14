@@ -1,7 +1,3 @@
-Here’s the updated GitHub description that includes information about GRUB2Win, gives it credit, and references the link you provided:
-
----
-
 # NoUSB ISO Booter
 
 NoUSB ISO Booter is a versatile tool for installing Linux distributions and custom ISOs directly from your hard drive, eliminating the need for a USB pendrive. Inspired by [this program](https://www.reddit.com/r/linux/comments/18l2qks/i_made_a_program_that_allows_you_to_install_linux/), it enhances the installation process by integrating GRUB2Win, providing an efficient and user-friendly experience.
@@ -32,6 +28,3 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to modify it further or let me know if you have any other requests!
